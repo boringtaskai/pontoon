@@ -1,6 +1,6 @@
 {
-  "name": "pontoon",
-  "description": "Mozilla localization platform",
+  "name": "pontoon-sumbangsuara",
+  "description": "Sumbang Suara localization platform",
   "keywords": [
     "l10n",
     "localization",
@@ -9,8 +9,8 @@
     "python",
     "django"
   ],
-  "website": "https://pontoon.mozilla.org",
-  "logo": "https://pontoon.mozilla.org/static/img/logo.svg",
+  "website": "https://pantoon.sumbangsuara.org",
+  "logo": "https://pontoon.sumbangsuara.org/static/img/logo.svg",
   "success_url": "/",
   "image": "heroku/python",
   "addons": [
