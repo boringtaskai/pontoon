@@ -18,8 +18,8 @@
     "mentored": "https://github.com/mozilla/pontoon/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22"
   },
   "urls": {
-    "prod": "https://pontoon.mozilla.org",
-    "dev": "https://mozilla-pontoon-staging.herokuapp.com"
+    "prod": "https://pontoon.sumbangsuara.org",
+    "dev": "https://pontoon-sumbangsuara-dev.herokuapp.com"
   },
   "keywords": [
     "python",
